@@ -18,7 +18,7 @@ $ git config --global user.email "crysis1@naver.com"
 | `$ git commit`                             | staging or tracking된 파일을 버전만들기     | `$ git commit -m "message"`                |
 | `$ git status`                             | git 현재 상태를 알려주는 git 명령어         | `$ git status`                             |
 | `$ git remote add origin "github address"` | git remote Repository 생성                  | `$ git remote add origin "github address"` |
-| `$ git push <remote> <master>              | git push함으로써 백업 및 공유               | `$ git push origin master`                 |
+| `$ git push <remote> <master>`             | git push함으로써 백업 및 공유               | `$ git push origin master`                 |
 
 <hr>
 
