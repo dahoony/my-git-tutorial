@@ -8,8 +8,8 @@ $ git config --global user.name "Da Hoon"
 $ git config --global user.email "crysis1@naver.com"
 
 ```
-<hr>
 
+##### Git 기본 명령어
 | Command                                    | Description                                 | Example                                    |
 | ------------------------------------------ | ------------------------------------------- | ------------------------------------------ |
 | `$ git init`                               | .git 디렉토리 생성 및 초기화                | `$ git init`                               |
@@ -19,6 +19,8 @@ $ git config --global user.email "crysis1@naver.com"
 | `$ git status`                             | git 현재 상태를 알려주는 git 명령어         | `$ git status`                             |
 | `$ git remote add origin "github address"` | git remote Repository 생성                  | `$ git remote add origin "github address"` |
 | `$ git push <remote> <master>              | git push함으로써 백업 및 공유               | `$ git push origin master`                 |
+
+<hr>
 
 ##### 이외 내용
 * SCM : Source Code Management
