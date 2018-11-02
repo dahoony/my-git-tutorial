@@ -24,6 +24,7 @@ $ git config --global user.email "crysis1@naver.com"
 | `$ git merge <branch name>`                | merge해야할 곳으로 가서 merge               | `$ git merge about-page`                   |
 | `$ git branch -d <branch name>`            | branch 삭제(-D: 강제로 지우기)              | `$ git branch -d about-page`               |
 
+
 <hr>
 
 ##### 이외 내용
