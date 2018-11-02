@@ -32,7 +32,7 @@ $ git status
 $ git remote add origin "github주소"
 ```
 
-###### git을 백업하기 위해 remote Repository에 push
+##### git을 백업하기 위해 remote Repository에 push
 ```Bash
 $ git push origin master
 ```
