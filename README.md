@@ -22,10 +22,11 @@ $ git config --global user.email "crysis1@naver.com"
 | `$ git branch <branch name>`               | git branch를 생성함으로써 복사함            | `$ git branch about-page`                  |
 | `$ git checkout <branch name>`             | git branch에 복사한 곳으로 변경             | `$ git checkout about-page`                |
 | `$ git merge <branch name>`                | merge해야할 곳으로 가서 merge               | `$ git merge about-page`                   |
-| `$ git branch -d <branch name>`            | branch 삭제                                 | `$ git branch -d about-page`               |
+| `$ git branch -d <branch name>`            | branch 삭제(-D: 강제로 지우기)              | `$ git branch -d about-page`               |
 <hr>
 
 ##### 이외 내용
 * SCM : Source Code Management
 * git과 github는 다르다.
 * html:5 + tab키를 누르면 html 기본 양식 완성
+* rebase 명령어는 지양하는것이 좋다.(무시)
