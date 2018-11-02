@@ -27,6 +27,15 @@ $ git commit
 $ git status
 ```
 
+##### git remote Repository 생성
+```Bash
+$ git remote add origin "github주소"
+```
+
+###### git을 백업하기 위해 remote Repository에 push
+```Bash
+$ git push origin master
+```
 
 ##### 이외 내용
 * SCM : Source Code Management
