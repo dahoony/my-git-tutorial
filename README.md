@@ -21,7 +21,8 @@ $ git config --global user.email "crysis1@naver.com"
 | `$ git push <remote> <master>`             | git push함으로써 백업 및 공유               | `$ git push origin master`                 |
 | `$ git branch <branch name>`               | git branch를 생성함으로써 복사함            | `$ git branch about-page`                  |
 | `$ git checkout <branch name>`             | git branch에 복사한 곳으로 변경             | `$ git checkout about-page`                |
-
+| `$ git merge <branch name>`                | merge해야할 곳으로 가서 merge               | `$ git merge about-page`                   |
+| `$ git branch -d <branch name>`            | branch 삭제                                 | `$ git branch -d about-page`               |
 <hr>
 
 ##### 이외 내용
