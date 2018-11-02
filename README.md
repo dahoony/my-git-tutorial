@@ -19,9 +19,12 @@ $ git config --global user.email "crysis1@naver.com"
 | `$ git status`                             | git 현재 상태를 알려주는 git 명령어         | `$ git status`                             |
 | `$ git remote add origin "github address"` | git remote Repository 생성                  | `$ git remote add origin "github address"` |
 | `$ git push <remote> <master>`             | git push함으로써 백업 및 공유               | `$ git push origin master`                 |
+| `$ git branch <branch name>`               | git branch를 생성함으로써 복사함            | `$ git branch about-page`                  |
+| `$ git checkout <branch name>`             | git branch에 복사한 곳으로 변경             | `$ git checkout about-page`                |
 
 <hr>
 
 ##### 이외 내용
 * SCM : Source Code Management
 * git과 github는 다르다.
+* html:5 + tab키를 누르면 html 기본 양식 완성
