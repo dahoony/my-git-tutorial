@@ -32,3 +32,4 @@ $ git config --global user.email "crysis1@naver.com"
 * git과 github는 다르다.
 * html:5 + tab키를 누르면 html 기본 양식 완성
 * rebase 명령어는 지양하는것이 좋다.(무시)
+* Markdown 언어 연습 및 활용 : Typora 편집기 추천
